@@ -1,0 +1,8 @@
+[Activity]
+name = Oct
+activity_version = 29
+host_version = 1
+bundle_id = mulawa.Oct
+icon = activity
+show_launcher = yes
+exec = sugar-activity activity.PeterActivity
